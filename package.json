@@ -1,5 +1,4 @@
 {
-  "homepage": "https://saurav02022.github.io/gitstar",
   "name": "gitstar",
   "private": true,
   "version": "0.0.0",
@@ -24,5 +23,7 @@
     "postcss": "^8.4.19",
     "tailwindcss": "^3.2.4",
     "vite": "^4.0.0"
-  }
+  },
+  "homepage": "https://saurav02022.github.io/gitstar"
+  
 }
