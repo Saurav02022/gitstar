@@ -5,7 +5,7 @@ const Card = ({ name, owner, language, stargazers_count, forks_count }) => {
   const src = owner.avatar_url;
   return (
     <div
-      className="flex flex-col items-center w-64 p-4 m-auto border-double border-4 border-sky-500"
+      className="flex flex-col items-center w-64 p-4 m-auto border-double border-4 border-sky-700"
       
     >
       <img src={src} alt={name} width="200" />
